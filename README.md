@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate and self-driven tech enthusiast e
 🤖 **BwiResQ AI** – Disaster prediction & emergency response AI  
 🧮 **Data Dashboards** – KPIs, charts, exports (PDF/Excel)
 
-👉 [Visit My Portfolio Website](#) *(link your site when ready)*  
+👉 [Visit My Portfolio Website](#) *www.rahasoft.free.nf  
 👉 [Check out my GitHub Projects](https://github.com/Crypt-Analyst)
 
 ---
@@ -59,8 +59,7 @@ Welcome to my GitHub profile! I'm a passionate and self-driven tech enthusiast e
 ## 📬 Contact Me
 
 - 📱 WhatsApp: [Click to chat](https://wa.me/254701482108)
-- ✉️ Email: *your.email@domain.com*
-- 🔗 LinkedIn: *link here (optional)*
+- ✉️ Email: bilfordderek917@gmail.com
 
 ---
 
