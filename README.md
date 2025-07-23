@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and self-driven tech enthusiast e
 - 🎓 Computer Science student at Mount Kenya University  
 - 💻 Python developer with interest in AI and ethical hacking  
 - 🔐 Security-conscious coder learning penetration testing with Kali Linux  
-- 📊 Building AI-powered apps like **BwiResQ** and a full inventory system
+- ✅ Completed: **Smart Inventory System** (Flask + PostgreSQL + Bootstrap)
 
 ---
 
@@ -36,10 +36,9 @@ Welcome to my GitHub profile! I'm a passionate and self-driven tech enthusiast e
 
 ## 🌍 Portfolio & Projects
 
-> ⚒️ *Currently under construction...*
+> ⚒️ *More coming soon...*
 
-🚧 **Smart Inventory System** – Flask + PostgreSQL + Bootstrap  
-🤖 **BwiResQ AI** – Disaster prediction & emergency response AI  
+✅ **Smart Inventory System** – Flask + PostgreSQL + Bootstrap  
 🧮 **Data Dashboards** – KPIs, charts, exports (PDF/Excel)
 
 👉 [Visit My Portfolio Website](#) *www.rahasoft.free.nf  
